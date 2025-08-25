@@ -1,5 +1,5 @@
 # Jarvis - Personal Voice Assistant 🗣️🤖 
-![Jarvis logo] (assets/logo.jpeg)
+![Jarvis logo](assets/logo.jpeg)
 
 Jarvis is a Python-based personal AI assistant that can listen to your commands and perform tasks like opening websites, searching the web, telling the time, playing music, and much more.  
 
@@ -38,3 +38,4 @@ Jarvis is a Python-based personal AI assistant that can listen to your commands 
 
 This project was created for learning purposes by following a tutorials by **CodeWithHarry on YouTube. 
 Some concepts and ideas are inspired by the original creator.
+
