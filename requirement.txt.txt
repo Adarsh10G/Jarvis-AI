@@ -1,0 +1,7 @@
+pyttsx3 
+speech_recognition as sr
+datetime
+wikipedia 
+webbrowser
+os
+smtplib
